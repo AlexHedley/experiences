@@ -12,7 +12,118 @@
       "output": {
         ".html": {
           "relative_path": "README.html",
-          "hash": "FH06sdmnyPj1WkSiDnecmA=="
+          "hash": "S+B9lk/u0fCLbz1cR0j+mw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/beginnersstainedglass/images/beginnersglass_1.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/beginnersstainedglass/images/beginnersglass_1.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/beginnersstainedglass/images/beginnersglass_2.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/beginnersstainedglass/images/beginnersglass_2.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/beginnersstainedglass/images/beginnersglass_3.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/beginnersstainedglass/images/beginnersglass_3.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/beginnersstainedglass/images/beginnersglass_4.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/beginnersstainedglass/images/beginnersglass_4.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/beginnersstainedglass/images/beginnersglass_5.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/beginnersstainedglass/images/beginnersglass_5.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/beginnersstainedglass/images/beginnersglass_6.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/beginnersstainedglass/images/beginnersglass_6.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/beginnersstainedglass/images/beginnersglass_7.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/beginnersstainedglass/images/beginnersglass_7.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/beginnersstainedglass/images/beginnersglass_8.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/beginnersstainedglass/images/beginnersglass_8.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/beginnersstainedglass/images/beginnersglass_9.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/beginnersstainedglass/images/beginnersglass_9.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/beginnersstainedglass/readme.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/beginnersstainedglass/readme.html",
+          "hash": "g22q/cub/umjsh/bZ6Clfw=="
         }
       },
       "is_incremental": false,
@@ -24,7 +135,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "vSrm/b4ZDexDOc2z2/c9Vg=="
+          "hash": "wbOgKWENjGdQKQjlY8mX0g=="
         }
       },
       "is_incremental": false,
@@ -36,7 +147,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "t7iiFrmuYmrKWisdq+lN6Q=="
+          "hash": "h/c+3DVrBrYQ5GjjBMn8cA=="
         }
       },
       "is_incremental": false,
@@ -107,17 +218,17 @@
           "total_file_count": 0,
           "skipped_file_count": 0
         },
-        "ConceptualDocumentProcessor": {
-          "can_incremental": false,
-          "incrementalPhase": "build",
-          "total_file_count": 3,
-          "skipped_file_count": 0
-        },
         "TocDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
           "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 4,
           "skipped_file_count": 0
         }
       }
