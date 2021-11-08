@@ -2,7 +2,7 @@
 ## Site
 
 - [local](http://localhost:8000/)
-- [Published](https://alexhedley.github.io/workshop-tools)
+- [Published](https://alexhedley.github.io/experiences)
 
 ## Run
 
