@@ -142,6 +142,51 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "articles/pumpkin/images/pumpkin_1.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/pumpkin/images/pumpkin_1.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/pumpkin/images/pumpkin_2.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/pumpkin/images/pumpkin_2.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/pumpkin/images/pumpkins-hero.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/pumpkin/images/pumpkins-hero.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/pumpkin/readme.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/pumpkin/readme.html",
+          "hash": "R3khMOjpVLnlS2YS2bKmBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "articles/toc.yml",
       "output": {
@@ -211,6 +256,12 @@
         "full_build_reason_code": "NoAvailableBuildCache"
       },
       "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 5,
+          "skipped_file_count": 0
+        },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
@@ -223,12 +274,6 @@
           "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
           "total_file_count": 0,
-          "skipped_file_count": 0
-        },
-        "ConceptualDocumentProcessor": {
-          "can_incremental": false,
-          "incrementalPhase": "build",
-          "total_file_count": 4,
           "skipped_file_count": 0
         }
       }
