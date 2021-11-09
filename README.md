@@ -4,12 +4,6 @@
 - [local](http://localhost:8000/)
 - [Published](https://alexhedley.github.io/experiences)
 
-## Run
-
-`py -m http.server`
-
-- [local](http://localhost:8000/)
-
 ## License
 
 - [MIT License](LICENSE)
