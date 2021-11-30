@@ -17,9 +17,7 @@ Saturday 30th October
 
 ## Outcome
 
-*in a week*
-
-<!-- ![](images/ "") -->
+![Pumpkin](images/pumpkin.jpg "Pumpkin")
 
 ## About
 
