@@ -20,6 +20,51 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "articles/baubles/images/Christmas-Bauble.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/baubles/images/Christmas-Bauble.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/baubles/images/Christmas-Baubles-lge.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/baubles/images/Christmas-Baubles-lge.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/baubles/images/Christmas-Baubles_1.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/baubles/images/Christmas-Baubles_1.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/baubles/readme.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/baubles/readme.html",
+          "hash": "88vgiVaQ4wZXO/UnJGbT0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "articles/beginnersstainedglass/images/beginnersglass_1.jpg",
       "output": {
         "resource": {
@@ -158,7 +203,18 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "/X+V5GL9NINH5SuJ52RUjA=="
+          "hash": "XtHJyLFEeidTfswU0utEZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/pumpkin/images/pumpkin.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/pumpkin/images/pumpkin.jpg"
         }
       },
       "is_incremental": false,
@@ -203,7 +259,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/pumpkin/readme.html",
-          "hash": "R3khMOjpVLnlS2YS2bKmBw=="
+          "hash": "662vz1ytq/qf2Df9Pfpjnw=="
         }
       },
       "is_incremental": false,
@@ -215,7 +271,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "v9bPXJfkXiDv7YZofkliXQ=="
+          "hash": "N8fFRMZ3zik20OHtWx847w=="
         }
       },
       "is_incremental": false,
@@ -279,6 +335,13 @@
         "full_build_reason_code": "NoAvailableBuildCache"
       },
       "processors": {
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
         "TocDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
@@ -289,14 +352,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 6,
-          "skipped_file_count": 0
-        },
-        "ResourceDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build",
-          "total_file_count": 0,
+          "total_file_count": 7,
           "skipped_file_count": 0
         }
       }
