@@ -203,7 +203,30 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "XtHJyLFEeidTfswU0utEZQ=="
+          "hash": "+QNaQCP53097KaPutX8bQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/marbles/images/Marbles-Class-NGC-1200x417.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/marbles/images/Marbles-Class-NGC-1200x417.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/marbles/readme.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/marbles/readme.html",
+          "hash": "WO4b9fmY6NFKIaujMSUyYg=="
         }
       },
       "is_incremental": false,
@@ -271,7 +294,30 @@
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "N8fFRMZ3zik20OHtWx847w=="
+          "hash": "f4TCcE1eFpu6IOH07vCPHA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/victoriatunnel/images/victoriatunnel.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/victoriatunnel/images/victoriatunnel.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/victoriatunnel/readme.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/victoriatunnel/readme.html",
+          "hash": "VUM3JDxEwsDHRUGdmhVrug=="
         }
       },
       "is_incremental": false,
@@ -335,13 +381,6 @@
         "full_build_reason_code": "NoAvailableBuildCache"
       },
       "processors": {
-        "ResourceDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build",
-          "total_file_count": 0,
-          "skipped_file_count": 0
-        },
         "TocDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
@@ -352,7 +391,14 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 7,
+          "total_file_count": 9,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
           "skipped_file_count": 0
         }
       }
