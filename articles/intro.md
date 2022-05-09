@@ -6,3 +6,4 @@
 - [Christmas Bauble](baubles/readme.md)
 - [Victoria Tunnel](victoriatunnel/readme.md)
 - [Marbles](marbles/readme.md)
+- [Blacksmiths](blacksmiths/readme.md)
