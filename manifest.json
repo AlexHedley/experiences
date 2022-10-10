@@ -20,6 +20,40 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "articles/archery/images/archery1.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/archery/images/archery1.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/archery/images/archery2.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/archery/images/archery2.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/archery/readme.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/archery/readme.html",
+          "hash": "zmke5mQxJhV46Vy0lQv+Sg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "articles/baubles/images/Christmas-Bauble.jpg",
       "output": {
         "resource": {
@@ -221,6 +255,40 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "articles/falconry/images/falconry1.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/falconry/images/falconry1.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/falconry/images/falconry2.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/falconry/images/falconry2.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/falconry/readme.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/falconry/readme.html",
+          "hash": "wcMdznRS5KSStomFzB0x5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "articles/ghost/images/ghost.jpeg",
       "output": {
         "resource": {
@@ -248,7 +316,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "8QG4HTGBtxurrVa7ihj6GQ=="
+          "hash": "Ih/47H3mvcoUOkXLJF9qZw=="
         }
       },
       "is_incremental": false,
@@ -339,7 +407,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "w7HuRlAeGUSFocdscue91w=="
+          "hash": "azUeS0yoK4wDCu6DH1IMAw=="
         }
       },
       "is_incremental": false,
@@ -436,7 +504,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 10,
+          "total_file_count": 12,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
