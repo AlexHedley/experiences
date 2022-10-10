@@ -2,6 +2,8 @@
   href: intro.md
 - name: Beginners Stained Glass
   href: beginnersstainedglass/readme.md
+- name: Archery
+  href: archery/readme.md
 - name: Halloween Glass Pumpkin
   href: pumpkin/readme.md
 - name: Ghost Walk
@@ -14,5 +16,5 @@
   href: marbles/readme.md
 - name: Blacksmiths
   href: blacksmiths/readme.md
-- name: Archery
-  href: archery/readme.md
+- name: Falconry
+  href: falconry/readme.md
