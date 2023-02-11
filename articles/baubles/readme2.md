@@ -4,24 +4,23 @@
 
 ## Date
 
-Saturday 13th November 2021
+Saturday 26th November 2022
 
 ## Price
 
-£30
+£35
 
 ## Pictures
 
-![Bauble](images/Christmas-Baubles_1.jpg "Bauble")
+<!-- ![Bauble](images/Christmas-Baubles_1.jpg "Bauble") -->
 
 ## Outcome
 
-![Bauble](images/Christmas-Bauble.jpg "Bauble")
+![Bauble](images/Christmas-Bauble-2.jpg "Bauble")
 
 ## About
 
-Delivered every Saturday and Sunday from 6 November – 19December / 1 hour workshops running at 10.00, 11.00, 12.00, 14.00 and 15.00 / Age 12+ (anyone under the age of 18 must be accompanied by an adult for the duration of the session) / £30 / Booking essential.
-Please note, to ensure the safety of staff and participants, the actual blowing of the bauble will be done by our glass blowers.
+Delivered every Thursday, Saturday and Sunday from 10 November until 18 December/ 1 hour workshops running at 10.00, 11.00, 12.00, 14.00 and 15.00 / Age 12+ (anyone under the age of 18 must be accompanied by an adult for the duration of the session) / £35 / Booking essential.
 
 Studio 1
 
